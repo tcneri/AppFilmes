@@ -6,6 +6,7 @@ import androidx.activity.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
 
 class MainActivity : AppCompatActivity(), FilmesAdapter.OnFilmeClickListener {
+    //falta acabar de implementar a Main
     private val viewModel:MainViewModel by viewModels()
     
 
