@@ -1,0 +1,28 @@
+[
+  {
+    "id": 0,
+    "nome": "Sexta-feira 13",
+    "categoria": "terror"
+  },
+    {
+    "id": 1,
+    "nome": "Sexta-feira 14",
+    "categoria": "terror"
+  },
+    {
+    "id": 2,
+    "nome": "Sexta-feira 15",
+    "categoria": "terror"
+  },
+    {
+    "id": 3,
+    "nome": "Sexta-feira 16",
+    "categoria": "terror"
+  },
+    {
+    "id": 4,
+    "nome": "Sexta-feira 17",
+    "categoria": "terror"
+  }
+
+]
